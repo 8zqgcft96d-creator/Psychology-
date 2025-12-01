@@ -1,330 +1,252 @@
- {
-  "questions": [
-    {
-      "questionNumber": 1,
-      "question": "當你遇到一個新的挑戰/任務時，你的第一反應是:",
-      "imageUrl": null,
-      "answerOptions": [
-        {
-          "text": "(A) 馬上跳進去、先試看看",
-          "score": {"A": 1}
-        },
-        {
-          "text": "(B) 先觀察環境、研究方式",
-          "score": {"B": 1}
-        },
-        {
-          "text": "(C) 有點猶豫、怕搞砸、先做部分準備",
-          "score": {"C": 1}
-        },
-        {
-          "text": "(D) 想幫助他人、在背後支撐或配合",
-          "score": {"D": 1}
-        }
-      ],
-      "hint": "關於您面對新事物的態度。",
-      "question": "當你遇到一個新的挑戰/任務時，你的第一反應是:"
-    },
-    {
-      "questionNumber": 2,
-      "question": "在人際互動中，當朋友需要幫忙/情緒低落時，你通常會:",
-      "imageUrl": null,
-      "answerOptions": [
-        {
-          "text": "(A) 鼓勵他們「快起來、一起去做點什麼」",
-          "score": {"A": 1}
-        },
-        {
-          "text": "(B) 安靜陪伴、傾聽他們說出來",
-          "score": {"B": 1}
-        },
-        {
-          "text": "(C) 有點退縮、不太確定怎麼幫比較好",
-          "score": {"C": 1}
-        },
-        {
-          "text": "(D) 主動提供支持、做好後勤或照顧他們",
-          "score": {"D": 1}
-        }
-      ],
-      "hint": "關於您對待情緒與人際需求的方式。",
-      "question": "在人際互動中，當朋友需要幫忙/情緒低落時，你通常會:"
-    },
-    {
-      "questionNumber": 3,
-      "question": "當你在思考人生或尋找方向時，你偏好哪種方式:",
-      "imageUrl": null,
-      "answerOptions": [
-        {
-          "text": "(A) 設定目標、立刻動手實踐",
-          "score": {"A": 1}
-        },
-        {
-          "text": "(B) 深入思考、寫筆記、分析可能性",
-          "score": {"B": 1}
-        },
-        {
-          "text": "(C) 小心翼翼、怕錯、慢慢走",
-          "score": {"C": 1}
-        },
-        {
-          "text": "(D) 和他人分享、互相支持、一步一腳印",
-          "score": {"D": 1}
-        }
-      ],
-      "hint": "關於您規劃未來時的思維模式。",
-      "question": "當你在思考人生或尋找方向時，你偏好哪種方式:"
-    },
-    {
-      "questionNumber": 4,
-      "question": "面對失敗或挫折，你最可能的反應是:",
-      "imageUrl": null,
-      "answerOptions": [
-        {
-          "text": "(A) 立刻反彈、再戰一次",
-          "score": {"A": 1}
-        },
-        {
-          "text": "(B) 自我反省、思考教訓",
-          "score": {"B": 1}
-        },
-        {
-          "text": "(C) 感到沮喪、有點退縮、怕再犯錯",
-          "score": {"C": 1}
-        },
-        {
-          "text": "(D) 尋求或提供人際支持、共同面對",
-          "score": {"D": 1}
-        }
-      ],
-      "hint": "關於您處理負面經驗的恢復力與策略。",
-      "question": "面對失敗或挫折，你最可能的反應是:"
-    },
-    {
-      "questionNumber": 5,
-      "question": "如果要選擇你最看重的特質，是哪一項:",
-      "imageUrl": null,
-      "answerOptions": [
-        {
-          "text": "(A) 冒險精神/行動力",
-          "score": {"A": 1}
-        },
-        {
-          "text": "(B) 思考深度/內在探索",
-          "score": {"B": 1}
-        },
-        {
-          "text": "(C) 謹慎/安全感",
-          "score": {"C": 1}
-        },
-        {
-          "text": "(D) 溫暖/支持他人",
-          "score": {"D": 1}
-        }
-      ],
-      "hint": "關於您個人的核心價值觀。",
-      "question": "如果要選擇你最看重的特質，是哪一項:"
-    }
-  ],
-  "results": [
-    {
-      "id": "A_Dominant",
-      "title": "🎯 核心傾向：挑戰型/行動者",
-      "description": "您的選擇在 (A) 選項上得分最高。這表示您是一個**高度外向、行動導向**的人。您看重結果、速度和效率，喜歡擔任發起人和領導者。您傾向於直覺式決策，並願意承擔風險。您是團體中的發動機，總是充滿能量，但有時可能忽略細節或顯得有些魯莽。",
-      "minScore": {"A": 3},
-      "evaluationText": "A 選項得分最高"
-    },
-    {
-      "id": "B_Dominant",
-      "title": "🧠 核心傾向：思考型/分析者",
-      "description": "您的選擇在 (B) 選項上得分最高。這表示您是**內向、嚴謹、邏輯導向**的人。您追求知識的深度、事實的準確性與內在的理解。您在做決定前會深入觀察、收集資料、分析所有可能性。您是天生的解決問題者，但有時可能會因為過度思考而錯失行動的最佳時機。",
-      "minScore": {"B": 3},
-      "evaluationText": "B 選項得分最高"
-    },
-    {
-      "id": "C_Dominant",
-      "title": "🛡️ 核心傾向：謹慎型/安全者",
-      "description": "您的選擇在 (C) 選項上得分最高。這表示您是**內向、小心、安全感導向**的人。您最看重的是穩定和避免錯誤。您做任何事情都會深思熟慮、緩慢進行，因為害怕失敗或搞砸。您可能在團體中是個可靠的執行者，但過度的謹慎有時會讓您感到退縮和焦慮，錯失機會。",
-      "minScore": {"C": 3},
-      "evaluationText": "C 選項得分最高"
-    },
-    {
-      "id": "D_Dominant",
-      "title": "🤝 核心傾向：支援型/和諧者",
-      "description": "您的選擇在 (D) 選項上得分最高。這表示您是**溫暖、合作、關係導向**的人。您具有高度的同理心，將人際和諧與團隊合作放在首位。您樂於提供支持、照顧他人、並在團體中扮演協調者和後勤的角色。您擅長傾聽和建立信任，但有時可能為了顧及他人的感受而忽略了自己的需求或立場。",
-      "minScore": {"D": 3},
-      "evaluationText": "D 選項得分最高"
-    },
-    {
-      "id": "No_Dominance",
-      "title": "⚖️ 核心傾向：平衡型/彈性者",
-      "description": "您的四個選項得分都相對平均，沒有一個分數特別突出（得分都低於 3 分）。這表示您是一個**具備高度適應性**的人，能夠根據不同的情境，靈活地展現出行動、分析、謹慎或支援的特質。您的優勢在於多樣性和彈性，但也可能在關鍵時刻感到猶豫，需要花更多時間來確定當下最適合的反應。",
-      "minScore": {},
-      "evaluationText": "所有選項的最高得分皆低於 3 分"
-    }
-  ],
-  "defaultResultId": "No_Dominance"
-}
+<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>行為傾向雷達圖分析</title>
-    <!-- 載入 Tailwind CSS for styling -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <!-- 載入 Chart.js 繪圖庫 -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+    <title>心靈動物原型測驗</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
-        /* 確保字體在 Chart.js 中能正常顯示中文 */
-        body { font-family: 'Inter', 'Noto Sans TC', sans-serif; }
+        body { font-family: "Microsoft JhengHei", "Heiti TC", sans-serif; background-color: #fdf6e3; color: #5d5d5d; margin: 0; padding: 20px; line-height: 1.6; }
+        .container { max-width: 600px; margin: 0 auto; background: white; padding: 30px; border-radius: 20px; box-shadow: 0 8px 20px rgba(0,0,0,0.05); }
+        h1 { text-align: center; color: #2c3e50; font-size: 24px; margin-bottom: 10px; }
+        .subtitle { text-align: center; color: #888; font-size: 14px; margin-bottom: 30px; }
+        
+        /* 題目樣式 */
+        .question-box { margin-bottom: 25px; padding-bottom: 15px; border-bottom: 1px dashed #ddd; }
+        .question-title { font-weight: bold; font-size: 18px; margin-bottom: 15px; color: #34495e; display: block; }
+        .options label { display: block; background: #f8f9fa; padding: 12px 15px; margin-bottom: 8px; border-radius: 8px; cursor: pointer; transition: 0.2s; border: 1px solid #eee; }
+        .options label:hover { background: #e9ecef; border-color: #ccc; }
+        .options input { margin-right: 10px; }
+
+        /* 按鈕樣式 */
+        button { width: 100%; padding: 16px; background-color: #d35400; color: white; border: none; border-radius: 10px; font-size: 18px; font-weight: bold; cursor: pointer; transition: 0.3s; margin-top: 10px; }
+        button:hover { background-color: #e67e22; }
+
+        /* 結果頁樣式 */
+        #result-section { display: none; animation: fadeIn 0.5s; }
+        .result-card { background: #fff8f0; border-left: 5px solid #d35400; padding: 20px; margin-top: 20px; border-radius: 5px; }
+        .result-title { font-size: 26px; font-weight: bold; color: #d35400; margin-bottom: 10px; }
+        .result-tag { font-size: 16px; color: #666; font-style: italic; margin-bottom: 15px; display: block; }
+        .section-title { font-weight: bold; color: #333; margin-top: 15px; display: block; }
+        
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
     </style>
 </head>
-<body class="bg-gray-50 min-h-screen p-4 sm:p-8">
-    <div class="max-w-4xl mx-auto bg-white shadow-xl rounded-xl p-6 md:p-10">
-        <h1 class="text-3xl font-bold text-gray-800 mb-2">心理測驗結果雷達圖分析</h1>
-        <p class="text-gray-500 mb-6 border-b pb-4">
-            此圖將您提供的四種人格傾向（男孩型、鼴鼠型、狐狸型、馬型）量化為四個維度，用於視覺化比較各型別的行為特徵。
-        </p>
+<body>
 
-        <!-- 雷達圖容器 -->
-        <div class="w-full h-[400px] md:h-[500px] bg-gray-50 p-4 rounded-lg border">
-            <canvas id="tendencyRadarChart"></canvas>
-        </div>
-
-        <!-- 數據分析表格 -->
-        <div class="mt-8">
-            <h2 class="text-xl font-semibold text-gray-700 mb-4">維度定義與評分（1-5分）</h2>
-            <div class="overflow-x-auto">
-                <table class="min-w-full divide-y divide-gray-200 rounded-lg overflow-hidden">
-                    <thead class="bg-blue-50">
-                        <tr>
-                            <th scope="col" class="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">型別</th>
-                            <th scope="col" class="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">A: 行動力/挑戰性</th>
-                            <th scope="col" class="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">B: 思考深度/分析性</th>
-                            <th scope="col" class="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">C: 謹慎性/安全感</th>
-                            <th scope="col" class="px-3 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">D: 支援性/關係導向</th>
-                        </tr>
-                    </thead>
-                    <tbody id="data-table-body" class="bg-white divide-y divide-gray-200">
-                        <!-- 數據將由 JS 填充 -->
-                    </tbody>
-                </table>
-            </div>
-        </div>
+<div class="container">
+    <div id="quiz-section">
+        <h1>🌲 心靈動物原型測驗</h1>
+        <p class="subtitle">男孩、鼴鼠、狐狸與馬</p>
+        <form id="quiz-form">
+            </form>
+        <button type="button" onclick="calculateResult()">✨ 查看我的心靈動物</button>
     </div>
 
-    <script>
-        // 設定 Chart.js 全局字體為 Noto Sans TC (或 fallback)
-        Chart.defaults.font.family = 'Inter, "Noto Sans TC", sans-serif';
-        Chart.defaults.color = '#374151'; // 設置預設文字顏色
+    <div id="result-section">
+        <h1>分析結果</h1>
+        
+        <canvas id="radarChart"></canvas>
 
-        // 1. 定義雷達圖的軸線標籤
-        const labels = [
-            'A: 行動力/挑戰性',
-            'B: 思考深度/分析性',
-            'C: 謹慎性/安全感',
-            'D: 支援性/關係導向'
-        ];
+        <div id="result-content" class="result-card"></div>
 
-        // 2. 根據您提供的文字描述，將四種型別量化為 1-5 分的數據 (5分最高)
-        const profileData = [
-            {
-                label: '男孩型 (Boy Type)',
-                color: 'rgba(59, 130, 246, 0.8)', // Blue
-                borderColor: 'rgb(59, 130, 246)',
-                data: [3, 4, 4, 4], // 行動力:3, 思考深度:4, 謹慎性:4, 支援性:4
-            },
-            {
-                label: '鼴鼠型 (Mole Type)',
-                color: 'rgba(16, 185, 129, 0.8)', // Emerald Green
-                borderColor: 'rgb(16, 185, 129)',
-                data: [2, 2, 3, 5], // 行動力:2, 思考深度:2, 謹慎性:3, 支援性:5
-            },
-            {
-                label: '狐狸型 (Fox Type)',
-                color: 'rgba(239, 68, 68, 0.8)', // Red
-                borderColor: 'rgb(239, 68, 68)',
-                data: [2, 5, 5, 2], // 行動力:2, 思考深度:5, 謹慎性:5, 支援性:2
-            },
-            {
-                label: '馬型 (Horse Type)',
-                color: 'rgba(245, 158, 11, 0.8)', // Amber
-                borderColor: 'rgb(245, 158, 11)',
-                data: [4, 3, 3, 5], // 行動力:4, 思考深度:3, 謹慎性:3, 支援性:5
-            },
-        ];
+        <button onclick="location.reload()" style="background-color: #7f8c8d; margin-top: 20px;">🔄 重新測驗</button>
+    </div>
+</div>
 
-        // 3. 準備 Chart.js 的 Dataset
-        const datasets = profileData.map(profile => ({
-            label: profile.label,
-            data: profile.data,
-            fill: true,
-            backgroundColor: profile.color.replace('0.8', '0.2'), // 填充色更透明
-            borderColor: profile.borderColor,
-            pointBackgroundColor: profile.borderColor,
-            pointBorderColor: '#fff',
-            pointHoverBackgroundColor: '#fff',
-            pointHoverBorderColor: profile.borderColor
-        }));
+<script>
+    // 定義題目 (A=馬, B=狐狸, C=男孩, D=鼴鼠)
+    const questions = [
+        {
+            text: "當你遇到一個新的挑戰/任務時，你的第一反應是：",
+            options: [
+                { text: "馬上跳進去、先試看看", type: "A" },
+                { text: "先觀察環境、研究方式", type: "B" },
+                { text: "有點猶豫、怕搞砸、先做部分準備", type: "C" },
+                { text: "想幫助他人、在背後支撐或配合", type: "D" }
+            ]
+        },
+        {
+            text: "在人際互動中，當朋友需要幫忙/情緒低落時，你通常會：",
+            options: [
+                { text: "鼓勵他們「快起來、一起去做點什麼」", type: "A" },
+                { text: "安靜陪伴、傾聽他們說出來", type: "B" }, // 修正：狐狸通常是陪伴觀察者，或此題偏向B/D，暫定B
+                { text: "有點退縮、不太確定怎麼幫比較好", type: "C" },
+                { text: "主動提供支持、做好後勤或照顧他們", type: "D" }
+            ]
+        },
+        {
+            text: "當你在思考人生或尋找方向時，你偏好哪種方式：",
+            options: [
+                { text: "設定目標、立刻動手實踐", type: "A" },
+                { text: "深入思考、寫筆記、分析可能性", type: "B" },
+                { text: "小心翼翼、怕錯、慢慢走", type: "C" },
+                { text: "和他人分享、互相支持、一步一腳印", type: "D" }
+            ]
+        },
+        {
+            text: "面對失敗或挫折，你最可能的反應是：",
+            options: [
+                { text: "立刻反彈、再戰一次", type: "A" },
+                { text: "自我反省、思考教訓", type: "B" },
+                { text: "感到沮喪、有點退縮、怕再犯錯", type: "C" },
+                { text: "尋求或提供人際支持、共同面對", type: "D" }
+            ]
+        },
+        {
+            text: "如果要選擇你最看重的特質，是哪一項：",
+            options: [
+                { text: "冒險精神 / 行動力", type: "A" },
+                { text: "思考深度 / 內在探索", type: "B" },
+                { text: "謹慎 / 安全感", type: "C" },
+                { text: "溫暖 / 支持他人", type: "D" }
+            ]
+        }
+    ];
 
-        // 4. 繪製雷達圖
-        const ctx = document.getElementById('tendencyRadarChart').getContext('2d');
-        const radarChart = new Chart(ctx, {
+    // 結果內容資料庫
+    const resultsData = {
+        "A": {
+            title: "馬型 (The Horse)",
+            tag: "「你習慣當那個『載大家走過去』的人。」",
+            desc: `
+                <span class="section-title">你的樣子：</span>
+                你很習慣扛責任、撐住場面。很多時候，你自己其實也會累、也會徬徨，可是你會先問：「大家還好嗎？」你是那種會陪著別人走一段的人，願意當那匹穩穩向前的馬。
+                <br><br>
+                <span class="section-title">你給別人的感覺：</span>
+                你讓人有安全感。只要你在，事情好像就能慢慢被處理好。很多人會在不知不覺中依賴你、把難題丟給你，因為你看起來總是知道該怎麼做。
+                <br><br>
+                <span class="section-title">給你的提醒：</span>
+                你不是永遠都要那麼堅強。當你覺得很重的時候，也可以停下來，把一些重量放回去，或者請別人幫忙扛一點。有時候，真正的力量不是一直往前衝，而是敢在需要的時候說：「我也想被照顧。」
+            `
+        },
+        "B": {
+            title: "狐狸型 (The Fox)",
+            tag: "「你看得很清楚，只是習慣把心收好。」",
+            desc: `
+                <span class="section-title">你的樣子：</span>
+                你敏銳、細心，對人的真心假意、情況的危險程度，有一種直覺式的判斷。你不會輕易把自己交出去，因為你知道受傷有多痛，所以寧可慢一點、再確定一點。
+                <br><br>
+                <span class="section-title">你給別人的感覺：</span>
+                一開始，你可能讓人覺得有距離、有點冷，但真正走進你心裡的人都知道：你其實非常忠誠、非常有義氣。你不會亂承諾，一旦說出口，就會盡力做到。
+                <br><br>
+                <span class="section-title">給你的提醒：</span>
+                保持界線是好事，但也別把自己關得太緊。不是每個人都會像過去那些人一樣傷害你。你可以試著多給世界一點點機會——不是為了別人，而是為了讓自己有機會好好被對待。
+            `
+        },
+        "C": {
+            title: "男孩型 (The Boy)",
+            tag: "「關於自己，你還在學著怎麼相信。」",
+            desc: `
+                <span class="section-title">你的樣子：</span>
+                你有很強的感受力，對世界充滿好奇，也對自己充滿問號。你常常會想：「我到底夠不夠好？」「我能不能被喜歡、被理解？」這種敏感，讓你更容易看見別人的情緒，也更容易忽略自己的需要。
+                <br><br>
+                <span class="section-title">你給別人的感覺：</span>
+                在別人眼中，你像一個正在長大的孩子，真誠、直接、很真實。你會為了關係不斷自我檢討，只想讓自己變得更好。很多人因為你願意說出的脆弱，而覺得被陪伴。
+                <br><br>
+                <span class="section-title">給你的提醒：</span>
+                你不需要完美才值得被愛。試著多看看自己已經做得不錯的地方，允許「還在路上」的自己存在。當你願意對自己溫柔一點，你就會發現：原來你早就已經是某個人心裡，很重要的那個存在。
+            `
+        },
+        "D": {
+            title: "鼴鼠型 (The Mole)",
+            tag: "「你的溫柔，是世界很需要的溫柔。」",
+            desc: `
+                <span class="section-title">你的樣子：</span>
+                你很重視「舒服感」—食物、氣氛、陪伴、小確幸。你知道人不可能每天都很強，所以你特別會照顧情緒、照顧氣氛。你會為別人準備點心、傳訊息問候、講些好笑的話，讓沈重變得沒那麼可怕。
+                <br><br>
+                <span class="section-title">你給別人的感覺：</span>
+                你像一個會做甜點的好朋友，可能不會給一大串理性分析，但總會讓人覺得：「跟你在一起就不那麼難過了吧。」很多人其實靠你的存在，才撐過了一些很黑暗的日子。
+                <br><br>
+                <span class="section-title">給你的提醒：</span>
+                在照顧別人之前，也別忘了一句：「那我自己呢？」你值得把同樣的溫柔，留一份給自己。偶爾不用那麼逗趣、那麼體貼，也沒關係——就算今天只想躺著，你一樣是很可愛的你。
+            `
+        }
+    };
+
+    // 初始化題目
+    const form = document.getElementById('quiz-form');
+    questions.forEach((q, index) => {
+        const div = document.createElement('div');
+        div.className = 'question-box';
+        
+        let optionsHtml = '<div class="options">';
+        q.options.forEach(opt => {
+            optionsHtml += `<label><input type="radio" name="q${index}" value="${opt.type}"> ${opt.text}</label>`;
+        });
+        optionsHtml += '</div>';
+
+        div.innerHTML = `<label class="question-title">${index + 1}. ${q.text}</label>${optionsHtml}`;
+        form.appendChild(div);
+    });
+
+    function calculateResult() {
+        // 檢查是否每題都答
+        for (let i = 0; i < questions.length; i++) {
+            if (!document.querySelector(`input[name="q${i}"]:checked`)) {
+                alert(`⚠️ 第 ${i+1} 題還沒回答喔！`);
+                return;
+            }
+        }
+
+        // 計算分數
+        let scores = { "A": 0, "B": 0, "C": 0, "D": 0 };
+        for (let i = 0; i < questions.length; i++) {
+            const val = document.querySelector(`input[name="q${i}"]:checked`).value;
+            scores[val]++;
+        }
+
+        // 找出最高分
+        let maxType = Object.keys(scores).reduce((a, b) => scores[a] > scores[b] ? a : b);
+        
+        // 處理同分狀況 (簡單邏輯：若同分，優先顯示 A>B>C>D，或可視情況調整)
+        // 此處 maxType 已取出最高分者
+
+        // 顯示結果頁
+        document.getElementById('quiz-section').style.display = 'none';
+        document.getElementById('result-section').style.display = 'block';
+        window.scrollTo(0, 0);
+
+        // 填入文字內容
+        const result = resultsData[maxType];
+        const contentDiv = document.getElementById('result-content');
+        contentDiv.innerHTML = `
+            <div class="result-title">${result.title}</div>
+            <span class="result-tag">${result.tag}</span>
+            <div style="text-align: left; margin-top: 15px; color: #444;">${result.desc}</div>
+        `;
+
+        // 繪製雷達圖
+        const ctx = document.getElementById('radarChart').getContext('2d');
+        new Chart(ctx, {
             type: 'radar',
             data: {
-                labels: labels,
-                datasets: datasets
+                labels: ['行動力 (馬)', '思考力 (狐狸)', '感受力 (男孩)', '親和力 (鼴鼠)'],
+                datasets: [{
+                    label: '特質比重',
+                    data: [scores.A, scores.B, scores.C, scores.D],
+                    backgroundColor: 'rgba(211, 84, 0, 0.2)',
+                    borderColor: 'rgba(211, 84, 0, 1)',
+                    pointBackgroundColor: 'rgba(211, 84, 0, 1)',
+                    borderWidth: 2
+                }]
             },
             options: {
-                responsive: true,
-                maintainAspectRatio: false, // 允許容器控制大小
-                plugins: {
-                    legend: {
-                        position: 'top',
-                    },
-                    title: {
-                        display: true,
-                        text: '四種行為傾向的綜合分析',
-                        font: { size: 16 }
-                    }
-                },
                 scales: {
                     r: {
-                        angleLines: { display: true, color: 'rgba(100, 100, 100, 0.2)' },
-                        grid: { color: 'rgba(100, 100, 100, 0.2)' },
-                        pointLabels: {
-                            font: { size: 14, weight: 'bold' }
-                        },
-                        // 設定分數範圍 1-5
-                        min: 0,
-                        max: 5,
-                        stepSize: 1,
-                        ticks: {
-                            display: true, // 顯示刻度數字
-                            backdropColor: "rgba(255, 255, 255, 0.8)" // 讓數字更清晰
-                        }
+                        angleLines: { display: true },
+                        suggestedMin: 0,
+                        suggestedMax: 5, // 因為只有5題
+                        ticks: { stepSize: 1, display: false } // 不顯示數字刻度讓畫面乾淨
                     }
+                },
+                plugins: {
+                    legend: { display: false }
                 }
             }
         });
+    }
+</script>
 
-        // 5. 填充數據表格
-        const tableBody = document.getElementById('data-table-body');
-        profileData.forEach(profile => {
-            const row = tableBody.insertRow();
-            row.className = 'hover:bg-gray-50';
-            // 型別名稱
-            let cell = row.insertCell();
-            cell.textContent = profile.label;
-            cell.className = 'px-3 py-4 whitespace-nowrap text-sm font-medium text-gray-900';
-            // 四個分數
-            profile.data.forEach(score => {
-                let scoreCell = row.insertCell();
-                scoreCell.textContent = score;
-                scoreCell.className = 'px-3 py-4 whitespace-nowrap text-sm text-gray-500';
-            });
-        });
-
-    </script>
 </body>
 </html>
