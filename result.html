@@ -1,0 +1,20 @@
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<canvas id="resultChart"></canvas>
+
+<script>
+    const ctx = document.getElementById('resultChart');
+
+    const chart = new Chart(ctx, {
+        type: 'radar', // bar, pie, radar 任你換
+        data: {
+            labels: ['Q1', 'Q2', 'Q3', 'Q4', 'Q5'],
+            datasets: [{
+                label: '你的作答分布',
+                data: {{ scores|tojson }},  // Flask 後端傳進來的分數
+                borderWidth: 2
+            }]
+        }
+    });
+</script>
+
