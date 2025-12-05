@@ -1,0 +1,93 @@
+/* 全域設定 */
+body {
+    font-family: "DFKai-SB", "標楷體", "PMingLiU", serif;
+    background-color: #f2f2f2;
+    color: #000000;
+    margin: 0;
+    padding: 20px;
+}
+
+/* 主容器 */
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+/* 題目小卡 */
+.card {
+    background: #ffffff;
+    border: 1px solid #ddd;
+    border-radius: 16px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.08);
+}
+
+/* 按鈕樣式 */
+button {
+    font-family: "DFKai-SB", "標楷體", "PMingLiU", serif;
+    background-color: #000000;
+    color: #ffffff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: #333333;
+}
+
+/* 選項 */
+.option-btn {
+    background-color: #e6e6e6;
+    color: #000;
+    border: 1px solid #aaa;
+    padding: 10px;
+    border-radius: 12px;
+    margin: 10px 0;
+    width: 100%;
+    text-align: left;
+    transition: 0.2s;
+}
+
+.option-btn:hover {
+    background-color: #d9d9d9;
+}
+
+/* 進度條 */
+.progress-container {
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.progress-bar {
+    height: 12px;
+    width: 0%;
+    background-color: #000;
+    border-radius: 10px;
+    transition: width 0.4s ease;
+}
+
+/* 顯示結果 */
+#result {
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+/* 雷達圖 */
+canvas {
+    background: #ffffff;
+    padding: 15px;
+    border-radius: 12px;
+}
