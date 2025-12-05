@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>心理測驗</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>心理測驗</h1>
+        <div id="progress-container"><div id="progress-bar"></div></div>
+
+        <div id="quiz-container"></div>
+
+        <div id="result" class="hidden">
+            <h2>你的測驗結果</h2>
+            <canvas id="radarChart"></canvas>
+            <button id="downloadChart">下載結果圖</button>
+            <div id="explanation"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
